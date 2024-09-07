@@ -198,7 +198,7 @@ content:
 
 
 
-  - title: A Little More About Me
+  - title: Language
     layout: list
     content:
       - layout: top-left
@@ -215,16 +215,24 @@ content:
           
       - layout: top-left
         border: weak
-        title: Language
+        title: Programming Language
         description: |
-          - Korean: Native
+          - Python
 
-          - English: Fluent
+          - Matlab
 
-          - Japanese: Conversational
-
-          - Mandarin: Basic
+          - C
           
+  - title: A Little More About Me
+    layout: text
+    content:
+      - I have a positive and cheerful personality.
+      - I like to handle tasks quickly.
+      - I like to read books on philosophy. I am interested in linguistic philosophy these days!
+      - I enjoy watching movies, and my favorite Japanese director is Hirokazu Koreeda. My all-time favorite movie is Forrest Gump. Recently, I have been focusing on Danish film.
+      - I am enjoying a part-time job as an assistant in English class in elementary school. 
+      - I enjoy baseball and soccer, and I am a fan of the Orix Buffaloes.
+
 
 # Footer
 footer_show_references: true

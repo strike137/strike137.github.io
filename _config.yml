@@ -76,11 +76,11 @@ content:
         additional_links:
          - title:  Github page for project (eg. sproogen/modern-resume-theme)
            icon: fab fa-github
-           url: https://github.com/cyb3rlab/RAF-AG
+           url: https://github.com/strike137/Lattices-from-LDPC-codes
         quote: >
          セキュアな情報システムの構築と維持の自動化に関する研究 (2024.10 ~ 2024.3)
         description: |
-          It is a joint research program with the Japanese company NEC. Contributed to the development of RAF-AG, a framework designed to generate attack paths from Cyber Threat Intelligence (CTI) reports. My role involved collecting and analyzing multiple CTI reports, and I conducted tests using various techniques, including BERT, to improve the generation of more accurate attack graphs. This work helped enhance the framework's ability to produce high-quality, detailed attack paths for further cybersecurity analysis.
+          With a strong interest in information theory and coding theory, I conducted research on combining Low-Density Parity-Check (LDPC) codes with Construction A lattices to evaluate their error-correcting performance in high data-rate communication systems at JAIST's Bits Lab.
         
   - title: Experience
     layout: list

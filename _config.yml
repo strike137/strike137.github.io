@@ -35,7 +35,7 @@ googlescholar_username: 2dV4vDkAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Jongmin Lee, a master's student at the Cybersecurity Lab of JAIST(Japan Advanced Institute of Science and Technology), Japan. My primary research focus is on the application of Large Language Models (LLMs) in cybersecurity. In addition to my current interests in leveraging LLMs for enhancing cybersecurity and exploring the security implications of LLMs themselves, I have recently developed a deeper curiosity about the fundamental aspects of Natural Language Processing (NLP).
+  I am Jongmin Lee, a master's student at the Cybersecurity Lab of Japan Advanced Institute of Science and Technology, Japan. My primary research focus is on the application of Large Language Models (LLMs) in cybersecurity. In addition to my current interests in leveraging LLMs for enhancing cybersecurity and exploring the security implications of LLMs themselves, I have recently developed a deeper curiosity about the fundamental aspects of Natural Language Processing (NLP).
     - Lists
     - Tables
 
@@ -123,7 +123,7 @@ content:
 
       - layout: left
         title: Research Assistant
-        sub_title: Oxide Material and Physics Laboratory, HUFS
+        sub_title: Oxide Material and Physics Laboratory, Hankuk University of Foreign Studies
         caption: March 2018 - Febuary 2021
         quote: >
         description: | # this will include new lines to allow paragraphs

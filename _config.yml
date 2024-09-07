@@ -45,6 +45,7 @@ content:
     layout: list
     content:
       - layout: top-left
+        border: weak
         title: Master of Information Science
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
         caption: Ocotber 2023 - September 2025 (in progress)

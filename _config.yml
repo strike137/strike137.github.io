@@ -35,7 +35,7 @@ googlescholar_username: 2dV4vDkAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Jongmin Lee, a master's student at the Cybersecurity Lab of JAIST, Japan. My primary research focus is on the application of Large Language Models (LLMs) in cybersecurity. In addition to my current interests in leveraging LLMs for enhancing cybersecurity and exploring the security implications of LLMs themselves, I have recently developed a deeper curiosity about the fundamental aspects of Natural Language Processing (NLP).
+  I am Jongmin Lee, a master's student at the Cybersecurity Lab of JAIST(Japan Advanced Institute of Science and Technology), Japan. My primary research focus is on the application of Large Language Models (LLMs) in cybersecurity. In addition to my current interests in leveraging LLMs for enhancing cybersecurity and exploring the security implications of LLMs themselves, I have recently developed a deeper curiosity about the fundamental aspects of Natural Language Processing (NLP).
     - Lists
     - Tables
 
@@ -80,9 +80,32 @@ content:
         quote: >
          Minor Research Project for Graduation at JAIST
         description: |
-          With a strong interest in information theory and coding theory, I conducted research on combining Low-Density Parity-Check (LDPC) codes with Construction A lattices to evaluate their error-correcting performance in high data-rate communication systems at JAIST's Bits Lab.
+          With a strong interest in information theory and coding theory, I conducted research on combining Low-Density Parity-Check (LDPC) codes with Construction A lattices to evaluate their error-correcting performance in high data-rate communication systems at BITS Lab of JAIST.
         
   - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Research Assistant
+        sub_title: JAIST
+        caption: Octomber 2024 - present
+        quote: >
+         
+        description: | # this will include new lines to allow paragraphs
+          I am working as a research assistant at the Cybersecurity Lab at JAIST!
+
+    layout: list
+    content:
+      - layout: right
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
     layout: list
     content:
       - layout: right

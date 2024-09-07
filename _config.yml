@@ -78,7 +78,7 @@ content:
            icon: fab fa-github
            url: https://github.com/strike137/Lattices-from-LDPC-codes
         quote: >
-         セキュアな情報システムの構築と維持の自動化に関する研究 (2024.10 ~ 2024.3)
+         Minor Research Project for Graduation at JAIST
         description: |
           With a strong interest in information theory and coding theory, I conducted research on combining Low-Density Parity-Check (LDPC) codes with Construction A lattices to evaluate their error-correcting performance in high data-rate communication systems at JAIST's Bits Lab.
         

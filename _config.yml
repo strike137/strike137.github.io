@@ -85,7 +85,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Research Assistant
         sub_title: Cybersecurity Lab, JAIST
         caption: Octomber 2024 - present         
@@ -94,7 +94,7 @@ content:
 
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Military Service as an Army Officer
         sub_title: Republic of Korea Army
         caption: March 2019 - June 2023
@@ -103,7 +103,7 @@ content:
 
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Research Assistant
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)

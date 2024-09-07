@@ -46,7 +46,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: セキュアな情報システムの構築と維持の自動化に関する研究
+        title: The research on automating the construction and maintenance of secure information systems(セキュアな情報システムの構築と維持の自動化に関する研究)
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:

@@ -37,6 +37,9 @@ github_username:  strike137
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am Jongmin Lee, a master's student at the Cybersecurity Lab of Japan Advanced Institute of Science and Technology, Japan. My primary research focus is on the application of Large Language Models (LLMs) in cybersecurity. In addition to my current interests in leveraging LLMs for enhancing cybersecurity and exploring the security implications of LLMs themselves, I have recently developed a deeper curiosity about the fundamental aspects of Natural Language Processing (NLP).
+
+  - Trip to Taiwan with My Beloved Sibling - Summer 2023
+  
   ![alt text](/images/taiwan.jpg "Taiwan")
   
 content:

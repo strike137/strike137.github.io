@@ -147,6 +147,37 @@ content:
         description: | # this will include new lines to allow paragraphs
           I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
 
+  - title: Research # Title for the section
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journals
+        link: Link
+        link_text: Github page for project
+        additional_links:
+         - title:  Github page for project
+           icon: fab fa-github
+           url: https://github.com/cyb3rlab/RAF-AG
+        quote: >
+        description: |
+          - Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12. 19 February 2020. 
+          Link: https://iopscience.iop.org/article/10.1088/2053-1591/ab5e59 
+  
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Lattices from LDPC codes
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Github page for project
+        additional_links:
+         - title:  Github page for project
+           icon: fab fa-github
+           url: https://github.com/strike137/Lattices-from-LDPC-codes
+        quote: >
+         Minor Research Project for Graduation at JAIST (October 2023 - March 2024)
+        description: |
+          With a strong interest in information theory and coding theory, I conducted research on combining Low-Density Parity-Check (LDPC) codes with Construction A lattices to evaluate their error-correcting performance in high data-rate communication systems at BITS Lab at JAIST.
+        
 
   - title: A Little More About Me
     layout: text

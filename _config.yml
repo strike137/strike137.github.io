@@ -148,7 +148,7 @@ content:
           I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
 
   - title: Research
-    layout: # Title for the section
+    layout: list # Title for the section
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

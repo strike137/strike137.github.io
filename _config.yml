@@ -20,7 +20,7 @@ darkmode: never
 
 # Social links
 googlescholar_username: 2dV4vDkAAAAJ
-
+ 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -36,8 +36,6 @@ googlescholar_username: 2dV4vDkAAAAJ
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am Jongmin Lee, a master's student at the Cybersecurity Lab of JAIST, Japan. My primary research focus is on the application of Large Language Models (LLMs) in cybersecurity. In addition to my current interests in leveraging LLMs for enhancing cybersecurity and exploring the security implications of LLMs themselves, I have recently developed a deeper curiosity about the fundamental aspects of Natural Language Processing (NLP).
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
 

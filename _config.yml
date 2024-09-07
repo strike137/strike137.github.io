@@ -156,7 +156,7 @@ content:
   - title: Research
     layout: list # Title for the section
     content:
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Preprint
@@ -170,7 +170,7 @@ content:
         description: |
           - Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2024). RAF-AG: Report Analysis Framework for Attack Path Generation. Computer & Security. Manuscript submitted for publication.
 
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Journal Paper
@@ -184,7 +184,7 @@ content:
         description: |
           - Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
   
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Journal Paper
@@ -201,13 +201,19 @@ content:
 
 
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+    layout: list
+    content:
+      - layout: top-left
+        border: weak
+        title: Master of Information Science
+        sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
+        caption: Ocotber 2023 - September 2025 (in progress)
+        description: |
+          GPA: 3.46/4.0 (Current)
+          
+          Supervisor: Assistant Professor Razvan Florin Beuran          
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
-
+          Second supervisor: Professor Yasuo Tan
 
 # Footer
 footer_show_references: true

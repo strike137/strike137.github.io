@@ -103,13 +103,11 @@ content:
 
       - layout: left
         title: Research Assistant
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        sub_title: Oxide Material and Physics Laboratory, HUFS
+        caption: March 2018 - Febuary 2021
         quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
 
   - title: Education
     layout: list

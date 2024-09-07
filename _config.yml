@@ -88,9 +88,7 @@ content:
       - layout: right
         title: Research Assistant
         sub_title: Cybersecurity Lab, JAIST
-        caption: Octomber 2024 - present
-        quote: >
-         
+        caption: Octomber 2024 - present         
         description: | # this will include new lines to allow paragraphs
           I am working as a research assistant at the Cybersecurity Lab at JAIST, conducting research on building automated security systems using LLMs.
 
@@ -100,7 +98,6 @@ content:
         title: Military Service as an Army Officer
         sub_title: Republic of Korea Army
         caption: March 2019 - June 2023
-        quote: >
         description: | # this will include new lines to allow paragraphs
           After completing the Officer Candidate Course in the Republic of Korea Army, I was commissioned as an officer in the Information and Communications branch and served as a Communications Platoon Leader.
 
@@ -127,6 +124,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

@@ -156,7 +156,7 @@ content:
   - title: Research
     layout: list # Title for the section
     content:
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Preprint
@@ -170,7 +170,7 @@ content:
         description: |
           Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2024). RAF-AG: Report Analysis Framework for Attack Path Generation. Computer & Security. Manuscript submitted for publication.
 
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Journal Paper
@@ -184,7 +184,7 @@ content:
         description: |
           Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
   
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Journal Paper

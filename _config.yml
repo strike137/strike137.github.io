@@ -44,20 +44,25 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Master of Information Science, Cybersecurity
+        title: Master of Information Science
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
         caption: Ocotber 2023 - September 2025 (in progress)
-       
-
+        description: |
+          Supervisor: Assistant Professor Razvan Florin Beuran          
+ 
       - layout: top-left
         title: Bachelor of Science, Computer Science
         sub_title: Department of Computer Science, College of Science, Korean National Open University
         caption: September 2021 - August 2023
+        description: |
+          Advisor: Professor Jinuk kim
 
       - layout: top-left
         title: Bachelor of Science, Electronic Physics (With Minor in Philosophy) 
         sub_title: Department of Electronic Physics, College of Science, Hankuk University of Foreign Studies
         caption: February 2017 - February 2021
+        description: |
+          Advisor: Professor Chunli liu
 
 
   - title: Projects # Title for the section

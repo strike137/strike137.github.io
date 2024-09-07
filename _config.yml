@@ -156,7 +156,7 @@ content:
   - title: Research
     layout: list # Title for the section
     content:
-      - layout: top-left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Preprint
@@ -168,9 +168,9 @@ content:
            url: https://github.com/cyb3rlab/RAF-AG
         quote: >
         description: |
-          - Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2024). RAF-AG: Report Analysis Framework for Attack Path Generation. Computer & Security. Manuscript submitted for publication.
+          Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2024). RAF-AG: Report Analysis Framework for Attack Path Generation. Computer & Security. Manuscript submitted for publication.
 
-      - layout: top-left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Journal Paper
@@ -182,9 +182,9 @@ content:
            url: https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03278j
         quote: >
         description: |
-          - Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
+          Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
   
-      - layout: top-left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Journal Paper
@@ -196,7 +196,7 @@ content:
            url: https://iopscience.iop.org/article/10.1088/2053-1591/ab5e59 
         quote: >
         description: |
-          - Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. (2020). Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12.
+          Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. (2020). Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12.
 
 
 
@@ -205,15 +205,28 @@ content:
     content:
       - layout: top-left
         border: weak
-        title: Master of Information Science
-        sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
-        caption: Ocotber 2023 - September 2025 (in progress)
+        title: Language
         description: |
-          GPA: 3.46/4.0 (Current)
-          
-          Supervisor: Assistant Professor Razvan Florin Beuran          
+          - Korean: Native
 
-          Second supervisor: Professor Yasuo Tan
+          - English: Fluent
+
+          - Japanese: Conversational
+
+          - Mandarin: Basic
+          
+      - layout: top-left
+        border: weak
+        title: Language
+        description: |
+          - Korean: Native
+
+          - English: Fluent
+
+          - Japanese: Conversational
+
+          - Mandarin: Basic
+          
 
 # Footer
 footer_show_references: true

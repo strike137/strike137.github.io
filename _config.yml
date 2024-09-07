@@ -226,13 +226,17 @@ content:
   - title: A Little More About Me
     layout: text
     content:
-      - I have a positive and cheerful personality.
-      - I like to handle tasks quickly.
-      - I like to read books on philosophy. I am interested in linguistic philosophy these days!
-      - I enjoy watching movies, and my favorite Japanese director is Hirokazu Koreeda. My all-time favorite movie is Forrest Gump. Recently, I have been focusing on Danish film.
-      - I am enjoying a part-time job as an assistant in English class in elementary school. 
-      - I enjoy baseball and soccer, and I am a fan of the Orix Buffaloes.
+      I have a positive and cheerful personality.
+      
+      I like to handle tasks quickly.
+      
+      I like to read books on philosophy. I am interested in linguistic philosophy these days!
+      
+      I enjoy watching movies, and my favorite Japanese director is Hirokazu Koreeda. My all-time favorite movie is Forrest Gump. Recently, I have been focusing on Danish film.
+            
+      I enjoy baseball and soccer, and I am a fan of the Orix Buffaloes.
 
+      I am enjoying a part-time job as an assistant in English class in elementary school. 
 
 # Footer
 footer_show_references: true

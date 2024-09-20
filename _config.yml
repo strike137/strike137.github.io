@@ -186,7 +186,7 @@ content:
         additional_links:
          - title:  Link
            icon: fab fa-github
-           url: https://github.com/cyb3rlab/RAF-AG
+           url: https://doi.org/10.1016/j.cose.2024.104125
         quote: >
         description: |
           Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2024). RAF-AG: Report Analysis Framework for Attack Path Generation. Computer & Security. Manuscript submitted for publication.

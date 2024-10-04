@@ -180,7 +180,7 @@ content:
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Preprint
+        title: Journal Paper
         link: Link
         link_text: Link
         additional_links:

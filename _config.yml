@@ -189,7 +189,7 @@ content:
            url: https://doi.org/10.1016/j.cose.2024.104125
         quote: >
         description: |
-          Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2024). RAF-AG: Report Analysis Framework for Attack Path Generation. Computer & Security. Manuscript submitted for publication.
+          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
 
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

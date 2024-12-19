@@ -86,16 +86,12 @@ content:
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Journal Paper
+        title: Conference Paper(Non-Peer Review)
         link: Link
         link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://doi.org/10.1016/j.cose.2024.104125
-        quote: >
+        quote: > The 42nd Symposium on Cryptography and Information Security
         description: |
-          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
+          Lee, J., Mai, K., G, Nakul. Beuran, R. (2025). Framework for Validating and Improving Python Code using Large Language Models.
     
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

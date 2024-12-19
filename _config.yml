@@ -93,7 +93,7 @@ content:
         quote: >
           The 42nd Symposium on Cryptography and Information Security
         description: |
-          Lee, J., Mai, K., Ghate, N., Beuran, R. (2025). Framework for Validating and Improving Python Code using Large Language Models.
+          Jongmin Lee, Khang Mai, Nakul Ghate, Razvan Beuran. (2025). Framework for Validating and Improving Python Code using Large Language Models.
           
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -107,7 +107,7 @@ content:
            url: https://doi.org/10.1016/j.cose.2024.104125
         quote: >
         description: |
-          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
+          Khang Mai, Jongmin Lee, Razvan Beuran, Ryosuke Hotchi, Sian En Ooi, Takayuki Kuroda, Yasuo Tan. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
 
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

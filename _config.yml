@@ -80,6 +80,64 @@ content:
           
           Supervisor: Professor Chunli Liu
 
+  - title: Publications
+    layout: list # Title for the section
+    content:
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://doi.org/10.1016/j.cose.2024.104125
+        quote: >
+        description: |
+          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
+    
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://doi.org/10.1016/j.cose.2024.104125
+        quote: >
+        description: |
+          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
+
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03278j
+        quote: >
+        description: |
+          Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
+  
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://iopscience.iop.org/article/10.1088/2053-1591/ab5e59 
+        quote: >
+        description: |
+          Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. (2020). Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12.
           
 
 
@@ -183,53 +241,6 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
-
-  - title: Research
-    layout: list # Title for the section
-    content:
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Journal Paper
-        link: Link
-        link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://doi.org/10.1016/j.cose.2024.104125
-        quote: >
-        description: |
-          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
-
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Journal Paper
-        link: Link
-        link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03278j
-        quote: >
-        description: |
-          Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
-  
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Journal Paper
-        link: Link
-        link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://iopscience.iop.org/article/10.1088/2053-1591/ab5e59 
-        quote: >
-        description: |
-          Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. (2020). Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12.
-
-
 
   - title: Language
     layout: list

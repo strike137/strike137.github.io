@@ -132,7 +132,7 @@ content:
         border: weak
         title: Teaching Assistant
         sub_title: School of Knowledge Science, JAIST
-        caption: Octomber 2024 - December 2024
+        caption: October 2024 - December 2024
         quote: >
          K228E Introduction to Knowledge Science
         description: | # this will include new lines to allow paragraphs
@@ -151,7 +151,7 @@ content:
         border: weak
         title: Research Assistant
         sub_title: Cybersecurity Lab, JAIST
-        caption: Octomber 2023 - present
+        caption: October 2023 - present
         quote: >
         description: | # this will include new lines to allow paragraphs
           I am working as a research assistant at the Cybersecurity Lab at JAIST, conducting research on building automated security systems using LLMs.
@@ -174,7 +174,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
 
-  - title: Research
+  - title: Publications
     layout: list # Title for the section
     content:
       - layout: top-left

@@ -187,6 +187,16 @@ content:
       - layout: left
         border: weak
         title: Teaching Assistant
+        sub_title: School of Information Science, JAIST
+        caption: December 2024 - February 2025
+        quote: >
+         I212E Analysis for Information Science
+        description: | # this will include new lines to allow paragraphs
+          I contribute to the learning environment by actively engaging as a teaching assistant. During class, I respond to student inquiries, grade assignments, and assist with various administrative tasks to ensure the smooth running of the course.
+      
+      - layout: left
+        border: weak
+        title: Teaching Assistant
         sub_title: School of Knowledge Science, JAIST
         caption: October 2024 - December 2024
         quote: >

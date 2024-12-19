@@ -163,7 +163,7 @@ content:
         quote: >
          セキュアな情報システムの構築と維持の自動化に関する研究 (October 2023 - March 2024)
         description: |
-          It is a joint research program with the Japanese company NEC. Contributed to the development of RAF-AG, a framework designed to generate attack paths from Cyber Threat Intelligence (CTI) reports. My role involved collecting and analyzing multiple CTI reports, and I conducted tests using various techniques, including BERT, to improve the generation of more accurate attack graphs. This work helped enhance the framework's ability to produce high-quality, detailed attack paths for further cybersecurity analysis.
+          It is a joint research program with the Japanese company NEC. Contributed to the development of RAF-AG, a framework designed to generate attack paths from Cyber Threat Intelligence (CTI) reports. My role involved collecting and analyzing multiple CTI reports, and I conducted tests using various models, including BERT, to improve the generation of more accurate attack graphs. This work helped enhance the framework's ability to produce high-quality, detailed attack paths for further cybersecurity analysis.
   
       - layout: left
         border: weak

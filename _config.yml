@@ -52,11 +52,11 @@ content:
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
         caption: Ocotber 2023 - September 2025 (in progress)
         description: |
-          GPA: 3.39/4.0 (in progress)
+          GPA: 3.46/4.0 (in progress)
           
           Supervisor: Associate Professor Razvan Florin Beuran          
 
-          Second Supervisor: Professor Yasuo Tan
+          Second supervisor: Professor Yasuo Tan
 
      
  
@@ -68,7 +68,7 @@ content:
         description: |
           GPA: 3.2/4.5 
           
-          Supervisor: Professor Jinuk Kim
+          Advisor: Professor Jinuk Kim
 
       - layout: top-left
         border: weak
@@ -78,63 +78,8 @@ content:
         description: |
           GPA: 3.37/4.5
           
-          Supervisor: Professor Chunli Liu
+          Advisor: Professor Chunli Liu
 
-  - title: Publications
-    layout: list # Title for the section
-    content:
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Conference Paper(Non-Peer Review)
-        link: Link
-        link_text: Link
-        quote: > 
-          The 42nd Symposium on Cryptography and Information Security
-        description: |
-          Lee, J., Mai, K., G, Nakul. Beuran, R. (2025). Framework for Validating and Improving Python Code using Large Language Models.
-    
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Journal Paper
-        link: Link
-        link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://doi.org/10.1016/j.cose.2024.104125
-        quote: >
-        description: |
-          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
-
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Journal Paper
-        link: Link
-        link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03278j
-        quote: >
-        description: |
-          Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
-  
-      - layout: top-left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Journal Paper
-        link: Link
-        link_text: Link
-        additional_links:
-         - title:  Link
-           icon: fab fa-github
-           url: https://iopscience.iop.org/article/10.1088/2053-1591/ab5e59 
-        quote: >
-        description: |
-          Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. (2020). Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12.
           
 
 
@@ -183,21 +128,11 @@ content:
   - title: Experience
     layout: list
     content:
-- layout: left
-        border: weak
-        title: Teaching Assistant
-        sub_title: School of Information Science, JAIST
-        caption: December 2024 - February 2025
-        quote: >
-         I212E Analysis for Information Science
-        description: | # this will include new lines to allow paragraphs
-          I contribute to the learning environment by actively engaging as a teaching assistant. During class, I respond to student inquiries, grade assignments, and assist with various administrative tasks to ensure the smooth running of the course.
-    
       - layout: left
         border: weak
         title: Teaching Assistant
         sub_title: School of Knowledge Science, JAIST
-        caption: October 2024 - December 2024
+        caption: Octomber 2024 - December 2024
         quote: >
          K228E Introduction to Knowledge Science
         description: | # this will include new lines to allow paragraphs
@@ -238,6 +173,53 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
+
+  - title: Research
+    layout: list # Title for the section
+    content:
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://doi.org/10.1016/j.cose.2024.104125
+        quote: >
+        description: |
+          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis framework for attack path generation. Computers & Security, 148, 104125.
+
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://pubs.rsc.org/en/content/articlelanding/2021/ra/d1ra03278j
+        quote: >
+        description: |
+          Najmul Hasan, Daryll J. C. Dalayoan, Jaehyun Lee, Jongmin Lee, Jongseo Kim, Jong-Seong Bae, Chunli Liu. (2021). Ag0/Au0 nanocluster loaded Bi2O4 photocatalyst for methyl orange dye photodegradation. RSC Advances, Issue 43.
+  
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://iopscience.iop.org/article/10.1088/2053-1591/ab5e59 
+        quote: >
+        description: |
+          Haoxuan Ma, Jongmin Lee, Namic Kwon and Chunli Liu. (2020). Effect of urea and glucose on the surface morphology and properties of CoFe2O4 nanomaterials. Materials Research Express, Volume 6, Number 12.
+
+
 
   - title: Language
     layout: list

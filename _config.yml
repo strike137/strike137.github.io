@@ -91,9 +91,8 @@ content:
         link: Link
         link_text: Link
         quote: >
-          The 42nd Symposium on Cryptography and Information Security
         description: |
-          Jongmin Lee, Khang Mai, Nakul Ghate, Razvan Beuran. (2025). Framework for Validating and Improving Python Code using Large Language Models.
+          Jongmin Lee, Khang Mai, Nakul Ghate, Razvan Beuran. (2025). Framework for Validating and Improving Python Code using Large Language Models. 2025 Symposium on Cryptography and Information Security. Kitakyushu, Japan.
           
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

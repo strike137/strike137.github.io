@@ -89,7 +89,8 @@ content:
         title: Conference Paper(Non-Peer Review)
         link: Link
         link_text: Link
-        quote: > The 42nd Symposium on Cryptography and Information Security
+        quote: > 
+          The 42nd Symposium on Cryptography and Information Security
         description: |
           Lee, J., Mai, K., G, Nakul. Beuran, R. (2025). Framework for Validating and Improving Python Code using Large Language Models.
     

@@ -91,8 +91,9 @@ content:
         link: Link
         link_text: Link
         quote: >
+          The 42nd Symposium on Cryptography and Information Security
         description: |
-          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis fram
+          Lee, J., Mai, K., Ghate, N., Beuran, R. (2025). Framework for Validating and Improving Python Code using Large Language Models.
           
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 

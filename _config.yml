@@ -87,7 +87,7 @@ content:
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Conference Paper(Non-Peer Reviewed)
+        title: Conference Paper  (Non-Peer Reviewed)
         link: Link
         link_text: Link
         quote: >

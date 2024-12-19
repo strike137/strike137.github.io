@@ -52,11 +52,11 @@ content:
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
         caption: Ocotber 2023 - September 2025 (in progress)
         description: |
-          GPA: 3.46/4.0 (in progress)
+          GPA: 3.39/4.0 (in progress)
           
           Supervisor: Associate Professor Razvan Florin Beuran          
 
-          Second supervisor: Professor Yasuo Tan
+          Second Supervisor: Professor Yasuo Tan
 
      
  
@@ -68,7 +68,7 @@ content:
         description: |
           GPA: 3.2/4.5 
           
-          Advisor: Professor Jinuk Kim
+          Supervisor: Professor Jinuk Kim
 
       - layout: top-left
         border: weak
@@ -78,7 +78,7 @@ content:
         description: |
           GPA: 3.37/4.5
           
-          Advisor: Professor Chunli Liu
+          Supervisor: Professor Chunli Liu
 
           
 
@@ -128,11 +128,21 @@ content:
   - title: Experience
     layout: list
     content:
+- layout: left
+        border: weak
+        title: Teaching Assistant
+        sub_title: School of Information Science, JAIST
+        caption: December 2024 - February 2025
+        quote: >
+         I212E Analysis for Information Science
+        description: | # this will include new lines to allow paragraphs
+          As a Teaching Assistant, I contribute to knowledge co-creation by facilitating group discussions and assisting with presentations during student-led activities.
+    
       - layout: left
         border: weak
         title: Teaching Assistant
         sub_title: School of Knowledge Science, JAIST
-        caption: Octomber 2024 - December 2024
+        caption: October 2024 - December 2024
         quote: >
          K228E Introduction to Knowledge Science
         description: | # this will include new lines to allow paragraphs

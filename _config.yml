@@ -80,9 +80,20 @@ content:
           
           Advisor: Professor Chunli Liu
 
+
   - title: Publications
     layout: list # Title for the section
     content:
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Conference Paper(Non-Peer Reviewed)
+        link: Link
+        link_text: Link
+        quote: >
+        description: |
+          Mai, K., Lee, J., Beuran, R., Hotchi, R., Ooi, S. E., Kuroda, T., & Tan, Y. (2025). RAF-AG: Report analysis fram
+          
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed

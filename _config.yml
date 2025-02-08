@@ -88,8 +88,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Peer Reviewed)
-        link: Link
-        link_text: Link
         quote: >
         description: |
           Khang Mai, Nakul Ghate, Jongmin Lee, Razvan Beuran. LLM-based Fine-grained ABAC Policy Generation. 11th International Conference on Information Systems Security and Privacy (ICISSP 2025), Porto, Portugal, February 20-22, 2025.
@@ -99,8 +97,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Non-Peer Reviewed)
-        link: Link
-        link_text: Link
         quote: >
         description: |
           Nakul Ghate, Khang Mai, Jongmin Lee, Razvan Beuran. Feasibility of integration of LLM as the role of security experts in access control models. The 42nd Symposium on Cryptography and Information Security (SCIS 2025), Kitakyushu, Japan, January 28-31, 2025.
@@ -109,8 +105,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Non-Peer Reviewed)
-        link: Link
-        link_text: Link
         quote: >
         description: |
           Jongmin Lee, Khang Mai, Nakul Ghate, Razvan Beuran. Framework for Validating and Improving Python Code using Large Language Models. The 42nd Symposium on Cryptography and Information Security  (SCIS 2025), Kitakyushu, Japan, January 28-31, 2025.

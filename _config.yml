@@ -84,7 +84,7 @@ content:
   - title: Publications
     layout: list # Title for the section
     content:
-    - layout: top-left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Peer Reviewed)
@@ -95,7 +95,7 @@ content:
           Khang Mai, Nakul Ghate, Jongmin Lee, Razvan Beuran. LLM-based Fine-grained ABAC Policy Generation. 11th International Conference on Information Systems Security and Privacy (ICISSP 2025), Porto, Portugal, February 20-22, 2025.
           
     
-    - layout: top-left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Non-Peer Reviewed)

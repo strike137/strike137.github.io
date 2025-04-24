@@ -198,6 +198,16 @@ content:
   - title: Experience
     layout: list
     content:
+    - layout: left
+        border: weak
+        title: Teaching Assistant
+        sub_title: School of Information Science, JAIST
+        caption: April 2025 - June 2025
+        quote: >
+         S101・S102・S503 人間力・創出力イノベーション論
+        description: | # this will include new lines to allow paragraphs
+          Due to my fluency in both Japanese and English, I have been appointed as a teaching assistant for a required course for new students!
+      
       - layout: left
         border: weak
         title: Teaching Assistant

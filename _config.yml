@@ -165,6 +165,15 @@ content:
       - layout: left
         border: weak
                       # other value (or no value) means no border will be displayed
+        title: The research on automating the construction and maintenance of secure information systems (FY 2025)
+        quote: >
+         セキュアな情報システムの構築と維持の自動化に関する研究 (April 2025 - March 2026)
+        description: | # this will include new lines to allow paragraphs
+         It is a joint research program with the Japanese company NEC. This project focuses on developing a system that integrates LLMs with security-related knowledge graphs and knowledge bases, aiming to deliver applications that provide security services to clients.
+      
+      - layout: left
+        border: weak
+                      # other value (or no value) means no border will be displayed
         title: The research on automating the construction and maintenance of secure information systems (FY 2024)
         quote: >
          セキュアな情報システムの構築と維持の自動化に関する研究 (April 2024 - March 2025)

@@ -88,6 +88,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Peer Reviewed)
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://www.jaist.ac.jp/~razvan/publications/llm_based_abac_policy_generation.pdf
         quote: >
         description: |
           Khang Mai, Nakul Ghate, Jongmin Lee, Razvan Beuran. LLM-based Fine-grained ABAC Policy Generation. 11th International Conference on Information Systems Security and Privacy (ICISSP 2025), Porto, Portugal, February 20-22, 2025.

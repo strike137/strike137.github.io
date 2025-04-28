@@ -204,7 +204,7 @@ content:
   - title: Experience
     layout: list
     content:
-    - layout: left
+      - layout: left
         border: weak
         title: Teaching Assistant
         sub_title: School of Information Science, JAIST

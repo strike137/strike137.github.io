@@ -36,7 +36,7 @@ github_username:  strike137
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Jongmin Lee, a master's student at the Cybersecurity Lab of Japan Advanced Institute of Science and Technology(JAIST), Japan. My current research focuses on the application of Natural Language Processing in cybersecurity. I'm also broadly interested in linguistics, philosophy, economics.
+  I am Jongmin Lee, a master's student at the Cybersecurity Labotatory of Japan Advanced Institute of Science and Technology (JAIST), Japan. My current research focuses on the application of Natural Language Processing in cybersecurity. I'm also broadly interested in linguistics, philosophy, economics.
 
   - Trip to Taiwan with My Beloved Younger Brother - Summer 2023
   
@@ -255,11 +255,11 @@ content:
       - layout: left
         border: weak
         title: Research Assistant
-        sub_title: Cybersecurity Lab, JAIST
+        sub_title: Cybersecurity Laboratory, JAIST
         caption: October 2023 - present
         quote: >
         description: | # this will include new lines to allow paragraphs
-          I am working as a research assistant at the Cybersecurity Lab at JAIST, conducting research on building automated security systems using LLMs.
+          I am working as a research assistant at the Cybersecurity Laboratory at JAIST, conducting research on building automated security systems using LLMs.
 
       - layout: left
         border: weak

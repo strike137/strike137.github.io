@@ -49,9 +49,9 @@ content:
 
       - layout: top-left
         border: weak
-        title: Master of Information Science
+        title: PhD of Information Science
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
-        caption: Ocotber 2023 - September 2025 (in progress)
+        caption: Ocotber 2025 - September 2028 (in progress)
         description: |
           Supervisor: Associate Professor Razvan Florin Beuran          
 
@@ -63,7 +63,7 @@ content:
         border: weak
         title: Master of Information Science
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
-        caption: Ocotber 2023 - September 2025 (in progress)
+        caption: Ocotber 2023 - September 2025
         description: |
           GPA: 3.53/4.0
           

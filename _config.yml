@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jongmin Lee
-title: Master Course Student
+title: PhD Course Student
 email: jongmin@jaist.ac.jp
 # email_title: Email (Email title override)
 phone: +81 070-8331-1473
@@ -36,7 +36,7 @@ github_username:  strike137
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Jongmin Lee, a master's student at the Cybersecurity Labotatory of Japan Advanced Institute of Science and Technology (JAIST), Japan. My current research focuses on the application of Natural Language Processing in cybersecurity. I'm also broadly interested in linguistics, philosophy, economics.
+  I am Jongmin Lee, a PhD student at the Cybersecurity Labotatory of Japan Advanced Institute of Science and Technology (JAIST), Japan. My current research focuses on the application of Natural Language Processing in cybersecurity. I'm also broadly interested in linguistics, philosophy, economics.
 
   - Trip to Taiwan with My Beloved Younger Brother - Summer 2023
   
@@ -46,13 +46,26 @@ content:
   - title: Education
     layout: list
     content:
+
       - layout: top-left
         border: weak
         title: Master of Information Science
         sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
         caption: Ocotber 2023 - September 2025 (in progress)
         description: |
-          GPA: 3.39/4.0 (in progress)
+          Supervisor: Associate Professor Razvan Florin Beuran          
+
+          JAIST-SPRING researcher
+          
+          Advanced Information Specialist Course (JAIST×Human Course)
+          
+      - layout: top-left
+        border: weak
+        title: Master of Information Science
+        sub_title: Graduate School of Advanced Science and Technology, Japan Advanced Institute of Science and Technology
+        caption: Ocotber 2023 - September 2025 (in progress)
+        description: |
+          GPA: 3.53/4.0
           
           Supervisor: Associate Professor Razvan Florin Beuran          
 

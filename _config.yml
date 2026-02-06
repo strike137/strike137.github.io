@@ -102,6 +102,20 @@ content:
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: Conference Paper  (Non-Peer Reviewed)
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://www.jaist.ac.jp/~razvan/publications/llm_based_abac_policy_generation.pdf
+        quote: >
+        description: |
+          Jongmin Lee, Khang Mai, Razvan Beuran. Cybersecurity Knowledge Graph Construction using Large Language Models. 2026 Symposium on Cryptography and Information Security  (SCIS 2026), Hakodate, Japan, January 26-30, 2026.
+          
+      - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: Conference Paper  (Peer Reviewed)
         link: Link
         link_text: Link

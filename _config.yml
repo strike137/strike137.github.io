@@ -234,25 +234,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
-        border: weak
-        title: Teaching Assistant
-        sub_title: School of Information Science, JAIST
-        caption: April 2026 - June 2026
-        quote: >
-         S101・S102・S503 Innovation Theory and Methodology for Social Competencies
-        description: |
-          Due to my fluency in both Japanese and English, I have been appointed as a teaching assistant for a required course for new students again!
-
-      - layout: left
-        border: weak
-        title: Teaching Assistant
-        sub_title: School of Knowledge Science, JAIST
-        caption: October 2025 - December 2025
-        quote: >
-         K228E Introduction to Knowledge Science
-        description: | # this will include new lines to allow paragraphs
-          As a Teaching Assistant, I contribute to knowledge co-creation by facilitating group discussions and assisting with presentations during student-led activities.
+    
 
     layout: list
     content:
@@ -260,7 +242,7 @@ content:
         border: weak
         title: Teaching Assistant
         sub_title: School of Knowledge Science, JAIST
-        caption: April 2025 - June 2025, 
+        caption: April 2025 - June 2025, April 2026 - June 2026
         quote: >
          S101・S102・S503 Innovation Theory and Methodology for Social Competencies
         description: |
@@ -280,7 +262,7 @@ content:
         border: weak
         title: Teaching Assistant
         sub_title: School of Knowledge Science, JAIST
-        caption: October 2024 - December 2024
+        caption: October 2024 - December 2024, October 2025 - December 2025
         quote: >
          K228E Introduction to Knowledge Science
         description: | # this will include new lines to allow paragraphs

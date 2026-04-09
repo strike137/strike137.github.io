@@ -95,6 +95,19 @@ content:
   - title: Publications
     layout: list # Title for the section
     content:
+          - layout: top-left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Journal Paper
+        link: Link
+        link_text: Link
+        additional_links:
+         - title:  Link
+           icon: fab fa-github
+           url: https://authors.elsevier.com/sd/article/S0950-7051(26)00651-9
+        quote: >
+        description: |
+          Jongmin Lee, Khang Mai, Nakul Ghate, Tomohiko Yagyu, Razvan Beuran, Yasuo Tan. (2026). CodeEnhancer: LLM-generated Python code enhancement through SAST integration and fine-tuning. Knowledge-Based Systems, 115925.
       - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed

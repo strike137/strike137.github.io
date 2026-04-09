@@ -112,8 +112,6 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conference Paper  (Non-Peer Reviewed)
-        link: Link
-        link_text: Link
         quote: >
         description: |
           Jongmin Lee, Khang Mai, Razvan Beuran. Cybersecurity Knowledge Graph Construction using Large Language Models. 2026 Symposium on Cryptography and Information Security (SCIS 2026), Hakodate, Japan, January 26-30, 2026.

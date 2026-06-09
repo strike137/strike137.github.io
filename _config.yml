@@ -315,6 +315,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           I conducted research on photocatalysis and eco-friendly semiconductor devices for three years at the Oxide Material and Physics Laboratory at Hankuk University of Foreign Studies.
 
+- title: Professional Service
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Peer Reviewer
+        caption: 2026 - Present
+        description: | 
+          - IEEE Transactions on Computational Social Systems (IEEE TCSS)
+          - Journal of Systems and Software (Elsevier JSS)
+
   - title: Language
     layout: list
     content:

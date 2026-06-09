@@ -245,10 +245,6 @@ content:
   - title: Experience
     layout: list
     content:
-    
-
-    layout: list
-    content:
       - layout: left
         border: weak
         title: Teaching Assistant
